@@ -5,6 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart'; 
 
 class DocApp extends StatelessWidget {
+
+  
   const DocApp({super.key, required this.appRouter});
   final AppRouter appRouter;
   @override
